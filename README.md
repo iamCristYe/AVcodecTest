@@ -1,5 +1,5 @@
 # AVcodecTest
-Test if you browser support the following video codec:
+Test if your environment supports the following AV codecs:
 
 https://iamCristYe.GitHub.io/AVcodecTest/AVC.AAC.MKV
 
