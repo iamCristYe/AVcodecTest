@@ -1,20 +1,11 @@
 # AVcodecTest
 Test if your environment supports the following AV codecs:
 
-https://iamCristYe.GitHub.io/AVcodecTest/AVC.AAC.MKV
+(AV1 is considered to be the most efficient video coding format, though currently the processing time is 70min for a 5s video clip on my computer. Opus has the best audio quality while small in size and quick in coding.)
 
-https://iamCristYe.GitHub.io/AVcodecTest/AVC.AAC.MP4
-
-https://iamCristYe.GitHub.io/AVcodecTest/AVC.AC-3.MP4
-
-https://iamCristYe.GitHub.io/AVcodecTest/HEVC.AAC.MP4
-
-https://iamCristYe.GitHub.io/AVcodecTest/HEVC.AC-3.MP4
-
-https://iamCristYe.GitHub.io/AVcodecTest/VP8.Vorbis.WebM
-
-https://iamCristYe.GitHub.io/AVcodecTest/VP9.Opus.MKV
-
-https://iamCristYe.GitHub.io/AVcodecTest/VP9.Opus.WebM
-
-https://iamCristYe.GitHub.io/AVcodecTest/AV1.Opus.WebM
+|        | AVC  | HEVC | VP8  | VP9  | AV1  | 
+| :--:   | :--: | :--: | :--: | :--: | :--: | 
+| AAC    | [MKV](https://iamCristYe.GitHub.io/AVcodecTest/AVC.AAC.MKV) | [MP4](https://iamCristYe.GitHub.io/AVcodecTest/HEVC.AAC.MP4) |||[MP4](https://iamCristYe.GitHub.io/AVcodecTest/AV1.AAC.MP4)|
+| AC-3   | [MP4](https://iamCristYe.GitHub.io/AVcodecTest/AVC.AC-3.MP4) | [MP4](https://iamCristYe.GitHub.io/AVcodecTest/HEVC.AC-3.MP4) |||| 
+| Vorbis | ||[WebM](https://iamCristYe.GitHub.io/AVcodecTest/VP8.Vorbis.WebM)||[MKV](https://iamCristYe.GitHub.io/AVcodecTest/AV1.Vorbis.MKV)|
+| Opus   | |[MKV](https://iamCristYe.GitHub.io/AVcodecTest/HEVC.Opus.MKV)||[WebM](https://iamCristYe.GitHub.io/AVcodecTest/VP9.Opus.WebM)|[WebM](https://iamCristYe.GitHub.io/AVcodecTest/AV1.Opus.WebM)   
