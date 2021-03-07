@@ -8,4 +8,4 @@ Test if your environment supports the following AV codecs:
 | AAC    | [MKV](https://iamCristYe.GitHub.io/AVcodecTest/AVC.AAC.MKV) | [MP4](https://iamCristYe.GitHub.io/AVcodecTest/HEVC.AAC.MP4) |||[MP4](https://iamCristYe.GitHub.io/AVcodecTest/AV1.AAC.MP4)|
 | AC-3   | [MP4](https://iamCristYe.GitHub.io/AVcodecTest/AVC.AC-3.MP4) | [MP4](https://iamCristYe.GitHub.io/AVcodecTest/HEVC.AC-3.MP4) |||| 
 | Vorbis | ||[WebM](https://iamCristYe.GitHub.io/AVcodecTest/VP8.Vorbis.WebM)||[MKV](https://iamCristYe.GitHub.io/AVcodecTest/AV1.Vorbis.MKV)|
-| Opus   | |[MKV](https://iamCristYe.GitHub.io/AVcodecTest/HEVC.Opus.MKV)||[WebM](https://iamCristYe.GitHub.io/AVcodecTest/VP9.Opus.WebM)|[WebM](https://iamCristYe.GitHub.io/AVcodecTest/AV1.Opus.WebM)   
+| Opus   | [MP4](https://iamCristYe.GitHub.io/AVcodecTest/AVC.Opus.MP4) |[MKV](https://iamCristYe.GitHub.io/AVcodecTest/HEVC.Opus.MKV)||[WebM](https://iamCristYe.GitHub.io/AVcodecTest/VP9.Opus.WebM)|[WebM](https://iamCristYe.GitHub.io/AVcodecTest/AV1.Opus.WebM)   
